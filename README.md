@@ -1,10 +1,12 @@
 ## 👋 Hello World! This is JinseoMyeon. <br />
 
-My Information is...
+### My Information is...
 
 🧑‍🎓 **Student** in Korea Digital Media High School <br>
 🏫 **Working** as a Designer at DIMIGOIN <br>
-💻 **Programming** some strange things
+💻 **Programming** some strange things <br>
+📈 **Learning** C, Python at School <br>
+　　**Wanting** to Learn Web and App Programming Languages
 
 ### 😄 Feel free to watch my Github profile!
 -----
