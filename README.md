@@ -1,6 +1,4 @@
-## Simple Profile
-
-#### 👋 Hello World! This is JinseoMyeon. <br />
+## 👋 Hello World! This is JinseoMyeon. <br />
 
 My Information is...
 
