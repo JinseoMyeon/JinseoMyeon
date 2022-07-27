@@ -5,7 +5,7 @@
 🏫 **Working** as a Designer at DIMIGOIN<br>
 💻 **Programming** some strange things<br>
 📈 **Learning** C, Python, Swift in School<br>
-📉 **Wanna** Learn Web and App Programming Languages
+📉 **Want to** Learn Web and App Programming Languages
 
 ### 😄 Feel free to watch my Github profile!
 ##
