@@ -21,7 +21,7 @@
 
 ## 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jinseomyeon&show_icons=true&locale=en&layout=compact" alt="jinseomyeon" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jinseomyeon&show_icons=true&locale=en" alt="jinseomyeon" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jinseomyeon&bg_color=50,53fce8,736efe&show_icons=true&title_color=333&count_private=true&text_color=333&icon_color=333" alt="jinseomyeon"/></p>
+
 
 
