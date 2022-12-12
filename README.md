@@ -17,7 +17,7 @@
 <p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></p>
 
 ### Running on...
-<p><img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> <img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat-square&logo=Windows&logoColor=white"/> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></p>
+<p><img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat-square&logo=Windows&logoColor=white"/>
 
 ## 
 
