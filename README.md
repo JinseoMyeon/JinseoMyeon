@@ -1,26 +1,25 @@
-## 👋 Hello World! This is JinseoMyeon. <br />
-### My Information is...
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JinseoMyeon/JinseoMyeon/assets/51117451/33ce9274-89a8-4375-b58c-b9a6a39777e8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/JinseoMyeon/JinseoMyeon/assets/51117451/c7da01e1-1f6e-451d-b36a-f157011fbd5f">
+    <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.svg">
+  </picture>
+  
+  <a href="https://i.ssib.al" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JinseoMyeon/JinseoMyeon/assets/51117451/54861af9-028e-43ec-a295-250b8bb91dc4">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/JinseoMyeon/JinseoMyeon/assets/51117451/fe3b9c9d-deb5-4202-90ce-f2f4b1d78d35">
+      <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.svg">
+    </picture>
+  </a>
 
-🧑‍🎓 **Student** in Korea Digital Media High School<br>
-🏫 **Working** as a Designer at DIMIGOIN<br>
-💻 **Programming** some strange things<br>
-📈 **Learning** C, Python, HTML in School<br>
-📉 **Want to** Learn Web and App Programming Languages
-
-### 😄 Feel free to watch my Github profile!
-##
-
-### Programming Languages
-<p><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-6C78AF?style=flat-square&logo=PHP&logoColor=white"/></p>
-
-#### HTML is Not Programming Language.
-<p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></p>
-
-### Running on...
-<p><img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=white"/> <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/> <img src="https://img.shields.io/badge/Windows 11-0078D4?style=flat-square&logo=Windows&logoColor=white"/>
-
-##
-
-<img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=dlwlstj0303">
-
-
+  <picture>
+      <source usemap="#info" media="(prefers-color-scheme: dark)" srcset="https://github.com/JinseoMyeon/JinseoMyeon/assets/51117451/35ed7ce9-1361-4c23-ad57-ac033d499ac3">
+      <source usemap="#info" media="(prefers-color-scheme: light)" srcset="https://github.com/JinseoMyeon/JinseoMyeon/assets/51117451/5ebd09ea-1e5e-4ed4-987a-ead972e0b3de">
+      <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.svg">
+  </picture>
+  
+  <picture>
+      <source usemap="#info" media="(prefers-color-scheme: dark)" srcset="https://github.com/JinseoMyeon/JinseoMyeon/assets/51117451/6dc27a6a-70cc-417d-907f-3a2befe91094">
+      <source usemap="#info" media="(prefers-color-scheme: light)" srcset="https://github.com/JinseoMyeon/JinseoMyeon/assets/51117451/5dd5c8ea-c455-40c5-b18b-cdc4eb88a07c">
+      <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.svg">
+  </picture>
